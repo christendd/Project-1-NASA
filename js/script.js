@@ -37,25 +37,9 @@ const API_URL = "https://api.nasa.gov/planetary/apod?api_key=J52YIQrpU9avynBAXeQ
 const $submit= $('#submit')
 
 // // // Register Event Listeners
-// $form.on('submit', getData)
+
 
 // // // Functions
-// function getData(event) {
-//     // event.preventDefault();
-//     date= $input.val();
-//     $.ajax(API_URL + "date=" +date+ "&" + API_Key).then(function(data){
-//     console.log(data);
-//     $("#image").attr(`src= "event.hdurl"`)
-// },
-
-// function(error) {
-//     console.log(error);
-//     });
-
-// }
-
-// getData()
-
 
 $(function(){  
 
