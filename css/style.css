@@ -16,11 +16,11 @@ body{
     margin: 0; 
     padding: 10px;
     grid-template-columns: 15% 70% 15%;
-    grid-template-rows: 10% 15% 78% 2%;
+    grid-template-rows: 13% 15% 70% 2%;
     justify-content: center;
     align-content: center;
     grid-template-areas: 
-    "header . ."
+    "header . nav"
     " . input submit"
     ". image ."
     ". footer .";
@@ -37,12 +37,27 @@ header{
     border: solid rgb(192, 237, 197);
     border-radius: 25px;
     border-width: thin;
-    margin-top: 10px;
+    margin-top: 15px;
     padding:10px;
     overflow: hidden;
     font-size: 100%;
   }
 
+  nav{
+    grid-area: nav;
+  }
+
+  .links{
+    display: flex;
+    justify-content: center;
+    font-size: smaller;
+    list-style: none;
+  }
+
+  a{
+    color: white;
+    font-family: 'Barlow', sans-serif;
+  }
 
   #image{
     grid-area: image;
