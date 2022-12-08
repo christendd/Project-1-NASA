@@ -18,11 +18,11 @@ Space by Date
 
 ### Wireframe
 
-![Wireframe](/Users/ChristenD/SEI Program/unit1/Project NASA/Images/Wireframe.png)
+![Wireframe](Images/Wireframe.png)
 
 ### Production Version
 
-![Production](/Users/ChristenD/SEI Program/unit1/Project NASA/Images/Production version.png)
+![Production](Images/Production version.png)
 
 ## Getting started
 
