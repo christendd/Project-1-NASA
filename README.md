@@ -22,7 +22,7 @@ Space by Date
 
 ### Production Version
 
-![Production](Images/Production version.png)
+![Production](Images/Production.png)
 
 ## Getting started
 
