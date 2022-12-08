@@ -39,7 +39,7 @@ header{
     margin-top: 15px;
     padding:10px;
     overflow: hidden;
-    font-size: 100%;
+    font-size: 25px;
   }
 
   nav{
@@ -48,7 +48,7 @@ header{
 
   .links{
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     font-size: smaller;
     list-style: none;
   }
